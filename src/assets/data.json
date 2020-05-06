@@ -1,0 +1,116 @@
+[
+    {
+      "functionHallName": "K Kconvention",
+      "ownerFirstName":"K",
+      "ownerLastName":"conv",
+      "ownerId": "hydfunc_361",
+      "street": "bandlaguda ",
+      "state": "telangana",
+      "city":  "Hyderabad",
+      "zipcode": "500068"
+
+    },
+    {
+      "functionHallName": "brundavan gardens",
+      "ownerFirstName":"bru",
+      "ownerLastName":"gard",
+      "ownerId": "hydfunc_362",
+      "street": "kukatpally ",
+      "state": "telangana",
+      "city":  "Warangal",
+      "zipcode": "500072"
+    },
+    {
+
+      "functionHallName": "raj mahal",
+      "ownerFirstName":"raj",
+      "ownerLastName":"mahal",
+      "ownerId": "hydfunc_363",
+      "street": "shamshabad ",
+      "state": "telangana",
+      "city":  "hyderabad",
+      "zipcode": "501218"
+    },
+    {
+
+      "functionHallName": "dreamland gardens",
+      "ownerFirstName":"dreamland",
+      "ownerLastName":"gardens",
+      "ownerId": "hydfunc_364",
+      "street": "secunderabad ",
+      "state": "telangana",
+      "city":  "hyderabad",
+      "zipcode": "501218"
+
+    },
+    {
+      
+      "functionHallName": "paigah palace",
+      "ownerFirstName":"paigah",
+      "ownerLastName":"palace",
+      "ownerId": "hydfunc_365",
+      "street": "begumpet ",
+      "state": "telangana",
+      "city":  "hyderabad",
+      "zipcode": "500016"
+
+    },
+    {
+
+      "functionHallName": "event villa ananthula functionhall",
+      "ownerFirstName":"ananthula",
+      "ownerLastName":"func",
+      "ownerId": "hydfunc_366",
+      "street": "nagole ",
+      "state": "telangana",
+      "city":  "hyderabad",
+      "zipcode": "500035"
+    },
+    {
+
+      "functionHallName": "event villa ananthula functionhall",
+      "ownerFirstName":"narsimha reddy",
+      "ownerLastName":"manda",
+      "ownerId": "hydfunc_367",
+      "street": "champapet ",
+      "state": "telangana",
+      "city":  "hyderabad",
+      "zipcode": "500035"
+
+    },
+    {
+      "functionHallName": "naren gardens",
+      "ownerFirstName":"naren",
+      "ownerLastName":"naren",
+      "ownerId": "hydfunc_368",
+      "street": "miyapur ",
+      "state": "telangana",
+      "city":  "hyderabad",
+      "zipcode": "500138"
+
+    },
+    {
+
+      "functionHallName": "vorla laxma reddy gardens",
+      "ownerFirstName":"laxma",
+      "ownerLastName":"reddy",
+      "ownerId": "hydfunc_369",
+      "street": "ecil ",
+      "state": "telangana",
+      "city":  "hyderabad",
+      "zipcode": "500139"
+
+      },
+    {
+
+      "functionHallName": "nan convention center",
+      "ownerFirstName":"nan",
+      "ownerLastName":"conv",
+      "ownerId": "hydfunc_370",
+      "street": "pragathi nagar  ",
+      "state": "telangana",
+      "city":  "hyderabad",
+      "zipcode": "500072"
+
+    }
+  ]
